@@ -1,0 +1,21 @@
+{
+    "items": [
+      { "id": 1, "description": "uova", "expiration": "2020-02-02", "category":"fridge"},
+      { "id": 2, "description": "latte", "expiration": "2020-02-02", "category":"fridge"},
+      { "id": 3, "description": "aglio", "expiration": "2020-02-02", "category":"fridge"},
+      { "id": 4, "description": "cipolla", "expiration": "2020-02-02", "category":"fridge"},
+      { "id": 6, "description": "pane", "expiration": "2020-02-02", "category":"fridge"},
+      { "id": 7, "description": "olio", "expiration": "2020-02-02", "category":"fridge"}
+    ],
+    "categories": [
+      { "id": 1, "description": "fridge" },
+      { "id": 2, "description": "freezer" },
+      { "id": 1, "description": "pantry" }
+    ],
+    "buyinglist": [
+        { "id": 1, "description": "uova", "expiration": "2020-02-02", "category":"fridge"},
+        { "id": 2, "description": "latte", "expiration": "2020-02-02", "category":"fridge"},
+        { "id": 3, "description": "aglio", "expiration": "2020-02-02", "category":"fridge"},
+        { "id": 4, "description": "cipolla", "expiration": "2020-02-02", "category":"fridge"}
+    ]
+}

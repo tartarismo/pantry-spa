@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <i className="fas fa-utensils"></i>
       CIAO
     </div>
   );

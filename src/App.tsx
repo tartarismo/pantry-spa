@@ -1,12 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { Header } from './components/Header';
+import { Main } from './components/Main';
+import { Footer } from './components/Footer';
 
 function App() {
   return (
     <div className="App">
-      <i className="fas fa-utensils"></i>
-      CIAO
+      <Header/>
+      <Main/>
+      <Footer/>
     </div>
   );
 }
